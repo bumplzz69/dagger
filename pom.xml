@@ -47,7 +47,7 @@
     <guava.version>18.0</guava.version>
 
     <!-- Test Dependencies -->
-    <junit.version>4.10</junit.version>
+    <junit.version>4.13.1</junit.version>
     <fest.version>1.4</fest.version>
     <truth.version>0.13</truth.version>
     <compile-testing.version>0.4</compile-testing.version>
